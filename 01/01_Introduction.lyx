@@ -1813,20 +1813,151 @@ A version-control system for tracking changes in computer files and coordinating
 \end_inset
 
  we will talk more about it in week 5
-\begin_inset VSpace 1mm
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
 \end_inset
 
 
 \end_layout
 
-\end_deeper
-\begin_layout Itemize
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Download guide
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Follow the 
+\begin_inset CommandInset href
+LatexCommand href
+name "installation guide"
+target "https://numeconcopenhagen.netlify.com/guides/python-setup/"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Open VScode
+\end_layout
+
+\begin_layout Enumerate
+Pres 
+\begin_inset Quotes ald
+\end_inset
+
+Ctrl+Shift+P
+\begin_inset Quotes ard
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+Write: 
+\begin_inset Quotes ald
+\end_inset
+
+git: clone
+\begin_inset Quotes ard
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Write 
+\begin_inset Quotes ald
+\end_inset
+
+https://github.com/NumEconCopenhagen/lectures-2020
+\begin_inset Quotes ard
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Or: 
+\begin_inset Quotes ald
+\end_inset
+
+https://github.com/NumEconCopenhagen/exercises-2020
+\begin_inset Quotes ard
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+ the repository will be downloaded to your computer
+\end_layout
+
+\begin_layout Enumerate
+You can update to the newest version of the code with 
+\begin_inset Quotes ald
+\end_inset
+
+git: sync
+\begin_inset Quotes ard
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Create a copy of the cloned folder, where you work with the code (otherwise
+ you can not sync with updates)
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+vspace{5mm}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 
 \series bold
-Note:
+Alternative: 
 \series default
- You can always download the content of a GitHub repository without using
- git
+Use the download button on the github-page.
 \begin_inset Note Note
 status open
 
@@ -1842,6 +1973,20 @@ show this
 \end_deeper
 \begin_layout Standard
 \begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+I hope this is not all too confusing.
+ You will be familiar with it in a couple of weeks.
+\end_layout
+
 \end_inset
 
 
@@ -2905,6 +3050,36 @@ status open
 
 \series bold
 Third priority: 
+\series default
+Download slides and exercises with git
+\begin_inset Newline newline
+\end_inset
+
+(see previous 
+\begin_inset Quotes ald
+\end_inset
+
+Download guide
+\begin_inset Quotes ard
+\end_inset
+
+-slide)
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<+->
+\end_layout
+
+\end_inset
+
+
+\series bold
+Fourth priority: 
 \series default
 Read the guides on:
 \end_layout

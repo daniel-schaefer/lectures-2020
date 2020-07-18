@@ -187,6 +187,17 @@ Analyze one or more extensions of the baseline model
 \begin_layout Itemize
 
 \series bold
+Limitation: 
+\series default
+\emph on
+sympy
+\emph default
+ can only play a small role in your project
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
 Structure: 
 \series default
 Your data analysis project should consist of:
